@@ -28,7 +28,7 @@ Instagram_username: glister999
 github_username:  jekyll
 
 # Build settings
-theme: monophase
+theme: minima
 plugins:
   - jekyll-feed
 
