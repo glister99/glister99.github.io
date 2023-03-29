@@ -4,15 +4,46 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+On 2023/3/29.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### A Master of Half-assing
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+我经常使用的网名是 Glister（not that you would recognise me）。初中注册 QQ 时不知道该起什么昵称，所以借用了当时使用的牙膏名字，沿用至今。
 
+我喜欢：
 
-[jekyll-organization]: https://github.com/jekyll
+- 动人的设计，无论是平面、工业品、还是建筑；
+- 电子产品；
+- 中古照相机；
+- 好的故事；
+- 发挥了游戏媒介长处的游戏；
+- 使用无序列表；
+- ……
+
+我尝试过，但未精进的技术包括但不限于：
+
+- 写代码；
+- 吹口琴、拉二胡、弹吉他、唱歌；
+- 讲日语；
+- [拍照](https://www.instagram.com/glister999/)；
+- 冲洗黑白胶卷；
+- [更系统、专业地听音乐](https://buzaichang.xyz/episodes/take-on-me)；
+- 做实验，并用论文呈现结果；
+- ……
+
+而这也是本站得名的原因。
+
+## 关于本站
+
+作为出生于世纪末的一代人，我接触互联网不算太晚：在家人 20 年前斥巨资购买的宏碁笔记型手提电脑上，我有幸见证了中文博客的黄金时期。然而，由于欠佳的表达能力、飘渺的表达欲和过剩的自我意识，我似乎从未「好好」使用过任何社交媒体，属实是 anti-social social media user 了。这当然也有一些益处，尤其是大家对互联网已经普遍幻灭的当下。
+
+可坏处是，当飘渺的表达欲到来时，欠佳的表达能力就会出来捣乱，毕竟表达能力和表达欲一定程度上互为因果。有了自认为有趣的观察，但不能表达得很有趣时，别提多难受了 : )
+
+为此我尝试过从微博到 Mastodon 的各种社交平台，无果。之前也萌生过建博客的想法，正好最近有时间，于是就有了本站。没有奢望在「后稀缺时代写出别处没有的文字」，主要是希望记录可以带来更顺畅、生动的表达，也提供校准自我意识的素材。
+
+道不行，这次建站也算一场对于 Open Web 和 DIY 美学的附庸风雅。
+
+## 技术细节
+
+- 使用静态网页框架 [Jekyll](https://jekyllrb.com/) 搭建，套用了 [Persephone](https://github.com/erlzhang/jekyll-theme-persephone) 主题，托管于 [Github Pages](https://pages.github.com/)；
+- 搭建的过程比最好的想象要难一些，也比最坏的想象容易一些。
