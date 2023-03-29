@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 #custom theme: https://github.com/erlzhang/jekyll-theme-persephone#readme
-gem "jekyll-theme-persephone"
+gem "jekyll-theme-persephone", , "~> 0.3.3"
