@@ -21,8 +21,8 @@
 title: Master Of None
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/_site" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/_site/index.html" # the subpath of your site, e.g. /blog
+url: "http://glister99.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #social:
 #  instagram: glister999
