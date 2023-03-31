@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我是如何学会停止购买并重新爱上拍照的"
-date:   2023-03-31 13:40:00 +0800
+date:   2023-03-31 13:40:00
 categories: jekyll update
 ---
 
