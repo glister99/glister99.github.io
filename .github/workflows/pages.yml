@@ -1,21 +1,23 @@
-name: Sync from template
+name: Testing the GitHub Pages publication
+
 on:
-    # cronjob trigger
-  schedule:
-  - cron:  "0 0 1 * *"
-  # manual trigger
-  workflow_dispatch:
+  push
+
 jobs:
-  repo-sync:
+  jekyll:
     runs-on: ubuntu-latest
     steps:
-      # To use this repository's private action, you must check out the repository
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: actions-template-sync
-        uses: AndreasAugustin/actions-template-sync@v0.7.3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          source_repo_path: alshedivat/al-folio
-          upstream_branch: master
-          target_branch: gh-pages
+    - uses: actions/checkout@v2
+
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    # Standard usage
+    - uses:  helaili/jekyll-action@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'gh-pages'
