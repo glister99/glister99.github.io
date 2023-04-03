@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-## 关于我
-
 On 2023/3/29.
 
 ### Master Of None
