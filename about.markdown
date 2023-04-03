@@ -8,7 +8,7 @@ permalink: /about/
 
 On 2023/3/29.
 
-### A Master of Half-assing
+### Master Of None
 
 我经常使用的网名是 Glister（not that you would recognise me）。初中注册 QQ 时不知道该起什么昵称，所以借用了当时使用的牙膏名字，沿用至今。
 
@@ -22,15 +22,14 @@ On 2023/3/29.
 - 使用无序列表；
 - ……
 
-我尝试过，但未精进的技术包括但不限于：
+我尝试过，但未精进的能力包括但不限于：
 
-- 写代码、玩 Arduino；
+- 写代码；
 - 讲日语；
 - [拍照](https://www.instagram.com/glister999/)；
 - 冲洗黑白胶卷；
 - 吹口琴、拉二胡、弹吉他、唱歌；
 - [更系统、专业地听音乐](https://buzaichang.xyz/episodes/take-on-me)；
-- 做实验，并用论文呈现结果；
 - ……
 
 我会发在这里的东西，大概也不会超出上面两个列表的范围。
