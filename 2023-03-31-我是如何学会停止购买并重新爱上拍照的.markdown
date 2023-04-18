@@ -33,7 +33,7 @@ categories: jekyll update
 
 前面说到，我借取景器状态不佳怒砍贰佰圆的事。后来才发现，选购老徕卡（M3, M2, M4）时，取景器品相是个比想象中更重要的指标。因为这套取景器里的半反半透分光镜（就是下图左下角，圆型目镜右上方，由两个楔形组成的立方体），使用了加拿大生产的植物基胶水贴合。~~好处是可以用来讲故事打环保牌~~，坏处是半个世纪或更久以后，可能会出现开胶的情况。一旦两个楔形完全分离，便是黑暗降临之时（非比喻），只有经过[费时、费力、费钱的修复](https://www.cameraworks-uk.com/post/leica-rangefinder-rebuild-and-why-you-might-need-one)才能重见光明。我这台 M3 的取景器，就有一些分离的早期症状。所以我产生了取景器分离焦虑。这种分离不知道何时会出现，也未必会出现，但只要想想后果就会把人逼疯，仿佛某种隐喻。
 
-类似的小摩擦还有很多，不展开了。我的最终暴论是，在使用的方便程度上，M3 完全不如同为纯机械相机的 Good Ol‘ [Nikon FM2](https://www.kenrockwell.com/nikon/fefm.htm)，即使后者因为性价比被贬为豆瓣文青神机。<br>
+类似的小摩擦还有很多，不展开了。我的最终暴论是，在使用的方便程度上，M3 完全不如同为纯机械相机的 Good Ol‘ [Nikon FM2](https://www.kenrockwell.com/nikon/fefm.htm)，即使后者因为优秀的性价比被贬为豆瓣文青神机。<br>
 
 <br>
 
@@ -61,16 +61,16 @@ categories: jekyll update
 
 <br>
 
-购买并使用 M3 的经历，让我反思了一下自己，到底是为了拍照，还是买了一件昂贵的项链。我在开头说，我想象中的徕卡用户，未必会在拍照本身上下很多功夫。这不就是我么？由于上面提到的各种原因，我自己用 M3 拍摄的胶卷一只手也能数得过来（其中还有一卷冲坏了，自己干的）。我后悔吗？那倒不至于。不管在付款时默念什么，是冲动的还是深思熟虑的购买，我都知道自己买下这台相机的真实理由。我估计好的品牌和产品就是让人心甘情愿地花一些冤枉钱，以获得良好的自我感觉。拥有一台年过花甲的胶卷徕卡（2023-1962=61），就像拥有一辆 Austin Mini：不仅不实用、没什么性价比，而且还可能会带来一揽子糟心事。但有些决定是不需要大脑多管闲事的。聊到 M3 的时候，约克一家相机店的店员是这样说的：「It's nice to hold a piece of history in your hand.」现在想起来真是不错的营销。手握一片历史的感觉确实没得说。
+购买并使用 M3 的经历，让我反思了一下自己，到底是为了拍照，还是买了一件昂贵的项链。我在开头说，我想象中的徕卡用户，未必会在拍照本身上下很多功夫。这不就是我么？由于上面提到的各种原因，我自己用 M3 拍摄的胶卷一只手也能数得过来（其中还有一卷冲坏了，自己干的）。我后悔吗？那倒不至于。不管在付款时默念什么，是冲动的还是深思熟虑的购买，我都知道自己买下这台相机的真实理由。关于什么是好的产品，既然市面上已经存在三千多种没有做到「相互独立，完全穷尽」的表述，那不妨再来添加一种。我估计好的品牌和产品就是让人心甘情愿地花一些冤枉钱，以获得良好的自我感觉。拥有一台年过花甲的胶卷徕卡（2023-1962=61），就像拥有一辆 Austin Mini：不仅不实用、没什么性价比，而且还可能会带来一揽子糟心事。但有些决定是不需要大脑多管闲事的。聊到 M3 的时候，约克一家相机店的店员是这样说的：「It's nice to hold a piece of history in your hand.」现在想起来真是不错的营销。手握一片历史的感觉确实没得说。
 
-任何人都不需要一台徕卡，但我还是很庆幸自己能拥有。我知道，这是典型的消费主义走狗言论，但徕卡的确影响了我对于「什么是好的照片」的理解。这也是我最近一年多最后一次买器材。接下来我想要做的，还是更多地把相机，不一定是这台 M3，带出门去，在海滩上拍照，在田野和街道上拍照，在山丘上拍照。正如当年[巴纳克的设计](https://encyclopedia.design/2022/01/11/oscar-barnack-first-35mm-camera/)所承载的愿景。
+任何人都不需要一台徕卡，但我还是很高兴自己能拥有。我知道，这是典型的消费主义走狗言论，但徕卡的确影响了我对于「什么是好的照片」的理解。这也是我最近一年多最后一次买器材。接下来我想要做的，还是更多地把相机，不一定是这台 M3，带出门去，在海滩上拍照，在田野和街道上拍照，在山丘上拍照。正如当年[巴纳克的设计](https://encyclopedia.design/2022/01/11/oscar-barnack-first-35mm-camera/)所承载的愿景。
 
 ## 更多
 
-- 本文标题是对电影《[奇爱博士](https://movie.douban.com/subject/1322848/)》副标题的一个化用；
+- 本文标题是对电影《[奇爱博士](https://movie.douban.com/subject/1322848/)》副标题的一个化用。See what I did there? ;)；
 - [徕卡 100 周年宣传片](https://youtu.be/DMkQQSt6d8s)。可以试试你能认出来几张经典照片。参考答案在[这里](https://youtu.be/vIrkmi5aIgY)；
 - 如果你还没看够老照片：[https://leica-camera.com/en-int/iconic-photos](https://leica-camera.com/en-int/iconic-photos)；
-- Did you know：Jony Ive 和 Marc Newson 给徕卡 M 设计过一台原型机。你猜是什么材质的？[Aluminium, of course](https://www.theverge.com/2021/3/29/22356156/leica-m-for-red-camera-prototype-apple-jony-ive-marc-newson-auction)；
+- 小知识：Jony Ive 和 Marc Newson 给徕卡 M 设计过一台原型机。你猜是什么材质的？[Aluminium, of course](https://www.theverge.com/2021/3/29/22356156/leica-m-for-red-camera-prototype-apple-jony-ive-marc-newson-auction)；
 - 最后再来一个暴论：由于采光窗和取景器之间对齐方式的差异，M2 以及之后的很多 M 机身正面要比 M3 更加和谐。
 
 ![本民科的徕卡分类法。](https://github.com/glister99/glister99.github.io/raw/19216c3c5f1a0153e349037fb15e089f4054f77e/pictures/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%B9%B6%E9%87%8D%E6%96%B0%E7%88%B1%E4%B8%8A%E6%8B%8D%E7%85%A7%E7%9A%84/Untitled 2.jpeg)<br>
