@@ -11,7 +11,7 @@ categories: jekyll update
 
 <br>
 
-![此处欠一张 M3 精美写真，下回补上。](https://hub.fastgit.org/glister99/glister99.github.io/raw/19216c3c5f1a0153e349037fb15e089f4054f77e/pictures/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%B9%B6%E9%87%8D%E6%96%B0%E7%88%B1%E4%B8%8A%E6%8B%8D%E7%85%A7%E7%9A%84/Untitled.png)
+![此处欠一张 M3 精美写真，下回补上。](https://github.com/glister99/glister99.github.io/raw/19216c3c5f1a0153e349037fb15e089f4054f77e/pictures/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%B9%B6%E9%87%8D%E6%96%B0%E7%88%B1%E4%B8%8A%E6%8B%8D%E7%85%A7%E7%9A%84/Untitled.png)
 <br>*此处欠一张 M3 精美写真，下回补上。*<br>
 
 
@@ -47,7 +47,7 @@ categories: jekyll update
 
 <br>
 
-![M3 + Doomo 测光表，生命的大和谐。](https://hub.fastgit.org/glister99/glister99.github.io/raw/19216c3c5f1a0153e349037fb15e089f4054f77e/pictures/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%B9%B6%E9%87%8D%E6%96%B0%E7%88%B1%E4%B8%8A%E6%8B%8D%E7%85%A7%E7%9A%84/Untitled.jpeg)<br>
+![M3 + Doomo 测光表，生命的大和谐。](https://github.com/glister99/glister99.github.io/raw/19216c3c5f1a0153e349037fb15e089f4054f77e/pictures/%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%AD%A6%E4%BC%9A%E5%81%9C%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%B9%B6%E9%87%8D%E6%96%B0%E7%88%B1%E4%B8%8A%E6%8B%8D%E7%85%A7%E7%9A%84/Untitled.jpeg)<br>
 *M3 + Doomo 测光表，一切都很得体。*<br>
 
 <br>
