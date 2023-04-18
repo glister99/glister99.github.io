@@ -67,6 +67,7 @@ categories: jekyll update
 
 ## 更多
 
+
 - [徕卡 100 周年宣传片](https://youtu.be/DMkQQSt6d8s)。可以试试你能认出来几张经典照片。参考答案在[这里](https://youtu.be/vIrkmi5aIgY)；
 - 如果你还没看够老照片：[https://leica-camera.com/en-int/iconic-photos](https://leica-camera.com/en-int/iconic-photos)；
 - 小知识：Jony Ive 和 Marc Newson 给徕卡 M 设计过一台原型机。你猜是什么材质的？[Aluminium, of course](https://www.theverge.com/2021/3/29/22356156/leica-m-for-red-camera-prototype-apple-jony-ive-marc-newson-auction)；
