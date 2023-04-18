@@ -43,5 +43,5 @@ On 2023/3/29.
 
 ## 技术细节
 
-- 使用静态网页框架 [Jekyll](https://jekyllrb.com/) 搭建，套用了 [Persephone](https://github.com/erlzhang/jekyll-theme-persephone) 模板，托管于 [Github Pages](https://pages.github.com/)，使用 Google Analytics 分析；
-- 搭建的过程比最好的想象「It just works!」）要难一些。踩了不少坑，但至少还是搭起来了。可惜还没有熟练到敢出教程的地步，所以就把[我觉得最有帮助的一个教程](https://hw311.me/zh/jekyll/2019/01/21/blog-jekyll-github-pages/)列在这里吧。
+- 使用静态网页框架 [Jekyll](https://jekyllrb.com/) 搭建，套用了 [Persephone](https://github.com/erlzhang/jekyll-theme-persephone) 模板，托管于 [Github Pages](https://pages.github.com/)，使用 Google Analytics 分析（还没弄好）；
+- 搭建的过程比预期要难一些。踩了不少坑，但至少还是搭起来了。可惜还没有熟练到敢出教程的地步，所以就把[我觉得最有帮助的一个教程](https://hw311.me/zh/jekyll/2019/01/21/blog-jekyll-github-pages/)列在这里吧。
