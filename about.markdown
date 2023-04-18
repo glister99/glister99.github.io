@@ -5,7 +5,7 @@ permalink: /about/
 ---
 On 2023/3/29.
 
-### Master Of None
+## A Master Of None
 
 我经常使用的网名是 Glister（not that you would recognise me）。初中注册 QQ 时不知道该起什么昵称，所以借用了当时使用的牙膏名字，沿用至今。
 
