@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 >抖机灵注水文，测试一下文章样式。
+
 <br>
 
 购买一台徕卡，而且是第一台 M 徕卡，也是我器材攫取综合征（GAS, Gear Acquisition Syndrome）发展到顶峰的表现。
