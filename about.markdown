@@ -44,7 +44,8 @@ permalink: /about/
 
 道不行，也可以当是一场对于 Open Web 和 DIY 美学的附庸风雅。
 
-Version 1.0，on 2023/3/29
+
+Last edited on 2023/3/29
 
 
 ## 技术细节
