@@ -37,10 +37,8 @@ categories: jekyll update
 
 所以，如果我正在上高中的笔友李华问我，如何应对高考作文（其实任何一种考试也是同理），我的回答可能更接近这样：
 
-通过 hack 完成目标可以是一种能力，会带来很多实际的好处。比如让你在某场巨型考试中脱颖而出，获得全国最好的教育资源。**有意识的 hack 无可厚非，只是别把自己给绕进去了。**
+所有的评价体系都可以被 hack，接受并利用这一点会带来很多实际的好处。比如让你在某场巨型考试中脱颖而出，获得全国最好的教育资源。**有意识的 hack 无可厚非，只是别把自己给绕进去了。**
 
-这不是什么深刻的道理，就是借机再提醒自己一下。放下功利心，才能留出足够的空间，给真正美好的东西生根发芽的机会。
+放下功利心，才能留出足够的空间，给真正美好的东西生根发芽的机会。这不是什么新鲜的道理，乔布斯 2005 年已经说过 [conecting the dots](https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/)，但我觉得现在有必要再提醒自己一次：
 
 > You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever.
-
-Well said.
