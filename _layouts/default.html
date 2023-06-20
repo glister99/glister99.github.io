@@ -1,3 +1,11 @@
-<head>
-{% include google_analytics.html %}
-</head>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    {% include google_analytics.html %}
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
