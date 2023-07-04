@@ -40,7 +40,7 @@ categories: jekyll update
 
 所有的评价体系都可以被 hack，接受并利用这一点会带来很多实际的好处。比如让你在某场巨型考试中脱颖而出，获得全国最好的教育资源。有意识的、节制的 hack 无可厚非，只是别把自己给绕进去了。
 
-**放下功利心，才能留出足够的空间，给真正美好的东西生根发芽的机会。** 乔布斯 2005 年已经说过 [conecting the dots](https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/)，但我觉得现在有必要再提醒自己一次：
+**放下功利心，才能留出足够的空间，给真正美好的东西生根发芽的机会。** 乔布斯 2005 年已经说过 [connecting the dots](https://news.stanford.edu/2005/06/12/youve-got-find-love-jobs-says/)，但我觉得现在有必要再提醒自己一次：
 
 > You can’t connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever.
 
